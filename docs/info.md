@@ -18,3 +18,7 @@ Follow https://tinytapeout.com/guides/workshop
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+
+## Pinout
+
+Needed to add this section to avoid issues ;p
