@@ -22,3 +22,4 @@ List external hardware used in your project (e.g. PMOD, LED display, etc), if an
 ## Pinout
 
 Needed to add this section to avoid issues ;p
+clk - clk
